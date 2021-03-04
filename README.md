@@ -1,4 +1,4 @@
-# README
+# This is the finance tracker app to track stocks that you are interested in.
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
