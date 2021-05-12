@@ -4,7 +4,7 @@
 <% if @stock %>
 	<div class="card card-header results-block">
 	  <strong>Symbol:</strong>
-	  <h3><%= @stock.ticker.upcase%></h3>
+	  <h3><%= @stock.ticker.upcase()%></h3>
 	  <strong>Name:</strong>
 	  <h3><%= @stock.name%></h3>
 	  <strong>Last Price:</strong>
